@@ -1,5 +1,6 @@
 The colours of rainbow and the unicorn and ponies
 This is Earth day
+This fixes issue #3
 purple
 red
 yellow
